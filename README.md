@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeoon&show_icons=true&theme=radical)
-<a href="https://www.notion.so/KUnity-4c7d118b9a8d4cadb4201864026a89e2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=FFFF00"/></a>
+<!-- <a href="https://www.notion.so/KUnity-4c7d118b9a8d4cadb4201864026a89e2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=FFFF00"/></a> -->
 
 <!--
 **taehyeoon/taehyeoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
