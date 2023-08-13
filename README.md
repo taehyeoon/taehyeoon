@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm taehyeon 👋
+
+<img src="https://github.com/taehyeoon/taehyeoon/blob/main/unity-certified-associate-game-developer.png" width="100" height="100">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeoon&show_icons=true&theme=radical)
 <!-- <a href="https://www.notion.so/KUnity-4c7d118b9a8d4cadb4201864026a89e2?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=plastic&logo=notion&logoColor=FFFF00"/></a> -->
