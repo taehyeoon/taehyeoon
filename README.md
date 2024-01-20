@@ -71,7 +71,7 @@
 <img src="https://github.com/taehyeoon/taehyeoon/blob/main/unity-certified-associate-game-developer.png" width="100" height="100">  
 
 
-![taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeoon&show_icons=true&theme=radical)
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyeoon&layout=compact">  
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyeoon&layout=compact">  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tedxpem)](https://solved.ac/tedxpem/)
 
+![taehyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeoon&show_icons=true&theme=radical)
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer) -->
